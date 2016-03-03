@@ -1,7 +1,7 @@
 name: Peerax
 favicon: null
-layout_spectrum: 0.673503102036193
-typography_spectrum: 0.732491921633482
+layout_spectrum: 1
+typography_spectrum: 0.49288
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8479981226846576
+    - '#34a4dc'
+    - '#34a5db'
+    - '#3399cc'
+    - '#279dd8'
+    - '#31a4db'
+  brandStrength: 1
   lightness: 0.5610138673800975
   saturation: 0.4742057230323553
   rhythmicContrast: 0.1652862390037626
